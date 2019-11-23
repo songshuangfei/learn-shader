@@ -1,4 +1,4 @@
-Shader "Custom/surfaceText"
+Shader "Custom/surfaceTex"
 {
     Properties
     {
